@@ -1,4 +1,4 @@
-# dwipraj-gihub
+# Dwipraj-creator
 <!-- Banner -->
 <p align="center">
   <a href="https://personal-portfolio-omega-weld.vercel.app/">
