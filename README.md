@@ -1,10 +1,14 @@
 # dwipraj-gihub
 <!-- Banner -->
-[![MasterHead](https://raw.githubusercontent.com/Dwipraj-creator/your-repo/main/assets/banner-dark.png)](https://personal-portfolio-omega-weld.vercel.app/)
+<p align="center">
+  <a href="https://personal-portfolio-omega-weld.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Dwipraj-creator/dwipraj-gihub/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner" width="100%" />
+  </a>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Dwipraj Dey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
